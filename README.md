@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+我是 INJU银烛，一个热爱技术的人。
 <!--
 **inju0524/inju0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
